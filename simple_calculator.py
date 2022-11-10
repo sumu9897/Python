@@ -2,7 +2,7 @@ a= int(input("Enter number of a : "))
 b= int(input("Enter number of b : "))
 
 print("SUM=1\nSUB=2\nMUL=3\nDIV=4\n\n")
-c= int(input("Enter number of c : "))
+c= int(input("Enter number of : "))
 
 sum = a+b;
 sub = a-b;
